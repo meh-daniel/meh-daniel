@@ -1,6 +1,6 @@
 
 ```kotlin
-val meh-daniel by androidDeveloper {
+val mehDaniel by androidDeveloper {
     fullName = "Galkin Daniel"
     citizenship = "Russian"
     birthdate = 04.09.2001
