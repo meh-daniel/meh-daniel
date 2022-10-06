@@ -6,7 +6,7 @@ val mehDaniel by androidDeveloper {
     fullName = "Galkin Danil"
     citizenship = "Russian"
     birthdate = "04.09.2001"
-    timezone = "GMT+3"
+    timezone = "GMT+7"
     city = "Novosibirsk"
     languages = ["English", "Russian"]
     
