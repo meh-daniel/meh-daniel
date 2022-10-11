@@ -3,7 +3,7 @@
 
 ```kotlin
 val mehDaniel by androidDeveloper {
-    fullName = "Galkin Danil"
+    fullName = "Danil Galkin"
     citizenship = "Russian"
     birthdate = "04.09.2001"
     timezone = "GMT+7"
