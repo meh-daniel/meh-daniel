@@ -12,7 +12,6 @@ val mehDaniel by androidDeveloper {
     
     contacts {
         telegram(username = "@mehDaniel")
-        habrCareer(url = "https://career.habr.com/meh-daniel")
         email(address = "mehanikdanil@gmail.com")
     }
 }
