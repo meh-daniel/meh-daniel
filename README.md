@@ -1,4 +1,4 @@
-# Welcome to <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-orange?logo=kotlin&logoColor=white&style=flat-square" width="40px"/> mobile developer page <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" height="23px" width="23px">
+# Welcome to <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-orange?logo=kotlin&logoColor=white&style=flat-square" width="60px"/> mobile developer page <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" height="63px" width="63px">
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
