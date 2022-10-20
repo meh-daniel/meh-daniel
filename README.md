@@ -38,7 +38,7 @@
 <li>Kotlin, Java, Android SDK</li>
 <li>Clean Architecture, MVP, MVVM + StateFlow</li>
 <li>Android Application Components (some)  </li>
-<li>Android Jetpack Architecture View Binding, LiveData, Lifecycles, ViewModel, Navigation, Room)</li>
+<li>Android Jetpack Architecture(View Binding, LiveData, Lifecycles, ViewModel, Navigation, Room)</li>
 <li>Material Components</li>
 <li>OOP, SOLID principles, DRY</li>
 <li>Kotlin, Coroutines + Flow(начальное)</li>
