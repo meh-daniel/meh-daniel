@@ -47,8 +47,8 @@
 <li>JUnit, Mockito( на этапе ознакомления)</li>
 </ul>
 
-# <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
 
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```kotlin
 val mehDaniel by androidDeveloper {
@@ -70,6 +70,8 @@ val mehDaniel by androidDeveloper {
     }
 }
 ```
+
+# <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mehDaniel)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/mehanikdanil)
