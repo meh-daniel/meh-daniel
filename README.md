@@ -33,10 +33,19 @@
 
 
 # Languages & Tools 👨‍💻 🛠:
-</br>
-
-<p align="center">
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<ul>
+<li>Kotlin, Java, Android SDK</li>
+<li>Clean Architecture, MVP, MVVM + StateFlow</li>
+<li>Android Application Components (some)  </li>
+<li>Android Jetpack Architecture View Binding, LiveData, Lifecycles, ViewModel, Navigation, Room)</li>
+<li>Material Components</li>
+<li>OOP, SOLID principles, DRY</li>
+<li>Kotlin, Coroutines + Flow(начальное)</li>
+<li>Dependency Injection (Dagger 2, Hilt)</li>
+<li>Room, SQL, SQLite</li>
+<li>JUnit, Mockito( на этапе ознакомления)</li>
+</ul>
 
 # <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
 
