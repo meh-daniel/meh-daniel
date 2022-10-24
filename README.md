@@ -40,7 +40,7 @@
 <li>Android Application Components (some)  </li>
 <li>Android Jetpack Architecture(View Binding, LiveData, Lifecycles, ViewModel, Navigation, Room)</li>
 <li>Material Components</li>
-<li>OOP, SOLID principles, DRY</li>
+<li>principles: SOLID, DRY, DIE, KISS, YAGNI</li>
 <li>Kotlin, Coroutines + Flow(начальное)</li>
 <li>Dependency Injection (Dagger 2, Hilt)</li>
 <li>Room, SQL, SQLite</li>
