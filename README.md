@@ -38,14 +38,16 @@
 <li>Kotlin, Java, Android SDK</li>
 <li>Presentations patterns- MVC, MVP, MVVM, MVI</li>
 <li>Android Application Components (some)  </li>
-<li>Android Jetpack Architecture(View Binding, LiveData, Lifecycles, ViewModel, Navigation, Room)</li>
-<li>Material Components</li>
-<li>principles: SOLID, DRY, DIE, KISS, YAGNI</li>
+<li>Android Jetpack Architecture -> View Binding, LiveData, Lifecycles, ViewModel, Navigation, Room</li>
+<li>Material Design and Components</li>
+<li>Principles: SOLID, DRY, DIE, KISS, YAGNI</li>
 <li>Clean Architecture</li>
-<li>Kotlin, Coroutines + Flow(начальное)</li>
-<li>Dependency Injection (Dagger 2, Hilt)</li>
-<li>Room, SQL, SQLite</li>
-<li>JUnit, Mockito( на этапе ознакомления)</li>
+<li>Reactive programming -> Coroutines+Flow, RxJava2, Thread, WorkManager</li>
+<li>Image Loading -> Glide, Coil, Picasso, Fresco(a bit)</li>
+<li>Dependency Injection -> Dagger 2, Hilt</li>
+<li>Local Storage -> SQLite, Room, SharedPrefernces, DataStore(a bit)</li>
+<li>Network -> Retrofit, OkHttp/Interceptor</li>
+<li>JUnit, Mockito -> на этапе ознакомления</li>
 </ul>
 
 
