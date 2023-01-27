@@ -23,8 +23,10 @@
 ### - Хоббии: 
 - ✨ Наркоманю в игры
 - ✨ Смотрю в запой весь кинематограф
-- ✨ Танцы
-- ✨ Люблю провести вечер в баре
+- ✨ Профессионально занимаюсь танцами
+- ✨ Люблю провести вечер в баре с друзьями
+- ✨ Увлекаюсь психологией и генетикой
+- ✨ Поглощён хайповыми темами о смысле жизни и целом философией
 
 </br>
 </br>
@@ -50,6 +52,11 @@
 <li>JUnit, Mockito -> на этапе ознакомления</li>
 </ul>
 
+# Некоторые из моих проектов:
+### - Выполненные тестовые задания для компаний: 
+- https://github.com/meh-daniel/MovieUnderBeer - для компании Секвения
+- https://github.com/meh-daniel/SayMyNameApp - для компании Siberian.pro
+- https://github.com/meh-daniel/GitHubLiteApp - для компании icerock
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
