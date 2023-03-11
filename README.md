@@ -54,7 +54,6 @@
 
 # Некоторые из моих проектов:
 ### - Выполненные тестовые задания для компаний: 
-- https://github.com/meh-daniel/MovieUnderBeer - для компании Секвения
 - https://github.com/meh-daniel/SayMyNameApp - для компании Siberian.pro
 - https://github.com/meh-daniel/GitHubLiteApp - для компании icerock
 
